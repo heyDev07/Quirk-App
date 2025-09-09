@@ -1,12 +1,12 @@
 # Quirk-Chat⚡
-Welcome to Quirk Chat⚡! 
+Welcome to Quirk Chat⚡! A modern real-time messaging application built with React, Node.js, and Socket.io.
 <p align="center"><img src="screenshots/cover-pic.png" alt="app poster" height="400" width="700"></p>
 
 # Demo💻
 
 https://github.com/Atigit15/Quirk-Chat/assets/77894729/d3f84e6d-3272-4cd0-bd71-062c19a9a846
 
-Note that it can time to load the dashboard once you click Log in, please be patient :)
+Note that it can take time to load the dashboard once you click Log in, please be patient :)
 
 # Features💫
 - **Real-time Chatting**: Quirk Chat leverages the power of 'socket.io' to enable real-time communication between users. Messages are instantly delivered to recipients, ensuring a smooth and responsive chatting experience.
@@ -22,7 +22,7 @@ Note that it can time to load the dashboard once you click Log in, please be pat
 # Installation⬇️
 1. Clone the repository
 ```bash
-git clone https://github.com/Atigit15/quirk-chat.git
+git clone https://github.com/your-username/quirk-chat.git
 ```
 2. Install dependencies
 ```bash
@@ -56,10 +56,11 @@ npm start
 - MultiAvatar: An external API. Multiavatar is a multicultural avatar generator, which is free to use and open source.
 
 # Deployment🖥️
-The site's server code is uploaded on render.com and frontend (public or client) code is uploaded through Netlify.
+The application is deployed with the server code hosted on Render.com and the frontend deployed through Netlify for optimal performance and scalability.
 
-# License📄
-Quirk Chat is open source and available under the MIT License.
 
-A special thanks to Kishan Sheth. Thank you for choosing Quirk Chat! We hope you enjoy using our real-time chat application and have meaningful conversations with others.
+# About the Developer👨‍💻
+This project was developed as a full-stack web application showcasing modern web development technologies including React, Node.js, Socket.io, and MongoDB. The application demonstrates real-time communication, user authentication, and responsive design principles.
+
+Thank you for choosing Quirk Chat! I hope you enjoy using this real-time chat application and have meaningful conversations with others.
 
